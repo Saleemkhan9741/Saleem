@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-27T20:43:01 IST" name="Default suite" finished-at="2021-02-27T20:43:37 IST" duration-ms="35843">
+    <groups>
+    </groups>
+    <test started-at="2021-02-27T20:43:01 IST" name="Default test" finished-at="2021-02-27T20:43:37 IST" duration-ms="35843">
+      <class name="Homepagetest">
+        <test-method is-config="true" signature="cofigbeforesuite()[pri:0, instance:Homepagetest@e1de817]" started-at="2021-02-27T20:43:01 IST" name="cofigbeforesuite" finished-at="2021-02-27T20:43:01 IST" duration-ms="596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cofigbeforesuite -->
+        <test-method is-config="true" signature="configbeforeclass()[pri:0, instance:Homepagetest@e1de817]" started-at="2021-02-27T20:43:01 IST" name="configbeforeclass" finished-at="2021-02-27T20:43:13 IST" duration-ms="11929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configbeforeclass -->
+        <test-method is-config="true" signature="configbeforetest()[pri:0, instance:Homepagetest@e1de817]" started-at="2021-02-27T20:43:13 IST" name="configbeforetest" finished-at="2021-02-27T20:43:13 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configbeforetest -->
+        <test-method signature="homepage()[pri:0, instance:Homepagetest@e1de817]" started-at="2021-02-27T20:43:13 IST" name="homepage" finished-at="2021-02-27T20:43:37 IST" duration-ms="23872" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage -->
+      </class> <!-- Homepagetest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
